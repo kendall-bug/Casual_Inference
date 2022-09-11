@@ -1,5 +1,3 @@
-# Casual_Inference
-
 # **Causal Inference**
 When running a causal inference model, typically you are attempting to identify if some sort of treatment or intervention was effective in changing the outcomes of a particular event or phenomenon. For example, in economic policy, you may want to determine if a government program for first-time homebuyers was effective or not at remediating the housing crisis in your community. In medicine, you may want to see if participating in an exercise program caused people to have better health outcomes or not.
 
